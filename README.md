@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Godwin Ehikhamhen!
 
-<!--
-**Goddiegold/Goddiegold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate **Full Stack Engineer** with experience in building scalable web applications, fintech solutions, and automation tools. I enjoy solving complex problems and optimizing system performance. 
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Frontend**
+- **Languages**: JavaScript, TypeScript
+- **Frameworks/Libraries**: React.js, Next.js, Mantine UI, TailwindCSS
+- **State Management**: Redux, Zustand
+- **Tools**: Vite, Webpack
+
+### **Backend**
+- **Languages**: Node.js, TypeScript
+- **Frameworks**: Express.js, NestJS
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **ORM/ODM**: Mongoose, Prisma, TypeORM
+- **Authentication**: JWT, OAuth
+
+### **DevOps & Cloud**
+- **Hosting**: Render, Vercel, Netlify
+- **CI/CD**: GitHub Actions
+- **Containerization**: Docker
+
+### **Other Tools & Technologies**
+- **Version Control**: Git, GitHub
+- **Testing**: Jest, Cypress
+- **Task Runners**: Node scripts, npm, pnpm
+- **Date Handling**: date-fns
+
+## 🏗️ Projects
+- **SimpleTest**: End-to-end test automation platform.
+- **Fintech Solution**: Payments, virtual cards, and remittances.
+- **Lending Platform**: Peer-to-peer lending with automated settlements.
+- **Escrow Payment System**: Secure transactions for e-commerce.
+
+## 📫 Let's Connect!
+- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- **Email**: your.email@example.com
