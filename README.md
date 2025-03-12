@@ -36,6 +36,6 @@ I'm a passionate **Full Stack Engineer** with experience in building scalable we
 - **Escrow Payment System**: Secure transactions for e-commerce.
 
 ## 📫 Let's Connect!
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **Email**: your.email@example.com
+- **GitHub**: [github.com/yourusername](https://github.com/Goddiegold)
+- **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/godwin-ehikhamhen/)
+- **Email**: gehikhamhen247@gmail.com
