@@ -1,41 +1,29 @@
-# 👋 Hi, I'm Godwin Ehikhamhen!
 
-## 🚀 About Me
-I'm a passionate **Full Stack Engineer** with experience in building scalable web applications, fintech solutions, and automation tools. I enjoy solving complex problems and optimizing system performance. 
+# 👋 Hi, I'm Godwin Ehikhamhen!  
 
-## 🛠️ Tech Stack
+## 🚀 About Me  
+I'm a passionate **Full Stack Engineer** with experience in building scalable web applications, fintech solutions, and automation tools. I enjoy building ideas to live, learning along the way.  
 
-### **Frontend**
-- **Languages**: JavaScript, TypeScript
-- **Frameworks/Libraries**: React.js, Next.js, Mantine UI, TailwindCSS
-- **State Management**: Redux, Zustand
-- **Tools**: Vite, Webpack
+## 🛠️ Tech Stack  
 
-### **Backend**
-- **Languages**: Node.js, TypeScript
-- **Frameworks**: Express.js, NestJS
-- **Databases**: MongoDB, PostgreSQL, MySQL
-- **ORM/ODM**: Mongoose, Prisma, TypeORM
-- **Authentication**: JWT, OAuth
+### **Frontend**  
+- **Languages**: JavaScript, TypeScript  
+- **Frameworks/Libraries**: React.js, Next.js, Mantine UI, TailwindCSS  
+- **State Management**: Redux, Zustand    
 
-### **DevOps & Cloud**
-- **Hosting**: Render, Vercel, Netlify
-- **CI/CD**: GitHub Actions
-- **Containerization**: Docker
+### **Backend**  
+- **Languages**: Node.js, TypeScript  
+- **Frameworks**: Express.js, NestJS  
+- **Databases**: MongoDB, PostgreSQL, MySQL  
+- **ORM/ODM**: Mongoose, Prisma, TypeORM 
 
-### **Other Tools & Technologies**
-- **Version Control**: Git, GitHub
-- **Testing**: Jest, Cypress
-- **Task Runners**: Node scripts, npm, pnpm
-- **Date Handling**: date-fns
+### **DevOps & Cloud**  
+- **Hosting**: Render, Vercel, Netlify, AWS EC2 instances, GCP Compute Engine  
+- **CI/CD**: GitHub Actions  
+- **Containerization**:  
+  - **Docker**: Still learning the ins and outs.  
+  - **Kubernetes**: Deployed a backend service there—know a few commands, lol.  
 
-## 🏗️ Projects
-- **SimpleTest**: End-to-end test automation platform.
-- **Fintech Solution**: Payments, virtual cards, and remittances.
-- **Lending Platform**: Peer-to-peer lending with automated settlements.
-- **Escrow Payment System**: Secure transactions for e-commerce.
-
-## 📫 Let's Connect!
-- **GitHub**: [https://github.com/Goddiegold]
-- **LinkedIn**: [https://www.linkedin.com/in/godwin-ehikhamhen/]
-- **Email**: gehikhamhen247@gmail.com
+### **Other Tools & Technologies**  
+- **Version Control**: Git, GitHub  
+- **Testing**: Jest
