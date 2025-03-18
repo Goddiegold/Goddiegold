@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Godwin Ehikhamhen**  
 
-🚀 Passionate **Full Stack Engineer** with experience in **scalable web applications, fintech solutions, and automation tools**. I love bringing ideas to life and learning along the way.  
+🚀 Passionate **Full Stack Engineer** with experience in building **web and mobile applications**. I love bringing ideas to life and learning along the way. 
 
 ---
 
